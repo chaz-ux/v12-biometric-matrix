@@ -1,6 +1,6 @@
 
-# V12 Biometric Polygraph Matrix 👁️📊
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=V12+Biometric+Polygraph+Matrix+👁️📊;FACIAL+KINEMATICS;REMOTE+PHOTOPLETHSYSMOGRAPHY;aUTONOMIC+AROUSAL+TRACKING)](https://git.io/typing-svg)
+<div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=V12+Biometric+Polygraph+Matrix+👁️📊;FACIAL+KINEMATICS;REMOTE+PHOTOPLETHSYSMOGRAPHY;AUTONOMIC+AROUSAL+TRACKING)](https://git.io/typing-svg)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV Vision](https://img.shields.io/badge/OpenCV-Vision-green.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Tracking-orange.svg?style=for-the-badge&logo=google&logoColor=white)](https://mediapipe.dev/)

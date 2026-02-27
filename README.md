@@ -1,10 +1,15 @@
 
 # V12 Biometric Polygraph Matrix 👁️📊
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Latest-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![OpenCV Vision](https://img.shields.io/badge/OpenCV-Vision-green.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-Tracking-orange.svg?style=for-the-badge&logo=google&logoColor=white)](https://mediapipe.dev/)
+[![Security](https://img.shields.io/badge/Analysis-Forensic-red.svg?style=for-the-badge)](https://github.com/chaz-ux/v12-biometric-matrix)
+
+[Architecture](#-core-architecture) • [Metrics](#-metric-matrix) • [Installation](#-installation--prerequisites) • [Usage](#-usage)
+
+</div>
+
 
 An advanced, non-contact biometric analysis tool that utilizes 3D facial kinematics, micro-expression tracking, and remote Photoplethysmography (rPPG) to assess cognitive load, physiological tension, and autonomic arousal in real-time.
 

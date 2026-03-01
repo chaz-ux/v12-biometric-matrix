@@ -1,0 +1,7 @@
+Q,Type,Verdict,Votes,OFflag,RppgFlag,BlinkConstruct,BlinkFlutter,TensionFlag,DuchenneFlag,FearFlag,GroundTruth
+4,test,LIKELY TRUTH,0,0,0,0,0,0,0,0,
+5,test,LIKELY TRUTH,1,0,0,0,0,0,1,0,
+6,test,LIKELY TRUTH,1,0,0,0,0,0,1,0,
+7,test,INCONCLUSIVE,2,1,1,0,0,0,0,0,
+8,test,INCONCLUSIVE,2,0,0,1,0,1,0,0,
+9,test,LIKELY TRUTH,1,1,0,0,0,0,0,0,

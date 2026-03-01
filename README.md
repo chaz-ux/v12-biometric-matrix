@@ -66,8 +66,8 @@ v20-biometric-matrix/
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/chaz-ux/v20-biometric-matrix.git](https://github.com/chaz-ux/v20-biometric-matrix.git)
-cd v20-biometric-matrix
+git clone [https://github.com/chaz-ux/v12-biometric-matrix.git](https://github.com/chaz-ux/v12-biometric-matrix.git)
+cd v12-biometric-matrix
 
 ```
 

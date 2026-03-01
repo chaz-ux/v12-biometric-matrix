@@ -1,0 +1,30 @@
+# ==========================================
+# V20 POLYGRAPH MATRIX - GIT IGNORE
+# ==========================================
+
+# 1. Private Session Logs & Data
+*.csv
+polygraph_session_*.csv
+
+# 2. MediaPipe Model Weights (Prevents repo bloat)
+*.task
+face_landmarker.task
+
+# 3. Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 4. Virtual Environments
+.venv/
+venv/
+env/
+
+# 5. IDE & OS Hidden Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 6. Secrets & Environment Variables
+.env

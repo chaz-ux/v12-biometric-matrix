@@ -1,9 +1,0 @@
-Subject,Run,Q,Question,Verdict,Votes,GroundTruth
-subject 1,1,1,how many lies have u told in the past 24 hours?,NDI,0,
-subject 1,1,2,Do you make a habit of eating whatever is there?,DI,4,
-subject 1,1,3,"On Sunday morning, did you happen to see a labelied containe",INC,2,
-subject 1,1,4,Did you eat my chicken?,INC,2,
-subject 1,2,1,how many lies have u told in the past 24 hours?,NDI,1,
-subject 1,2,2,Do you make a habit of eating whatever is there?,INC,2,
-subject 1,2,3,"On Sunday morning, did you happen to see a labelied containe",INC,2,
-subject 1,2,4,Did you eat my chicken?,DI,3,
